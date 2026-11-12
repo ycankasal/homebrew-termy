@@ -1,6 +1,6 @@
 cask "termy" do
-  version "1.4.9,18"
-  sha256 "1b58c2f227e1f65d785c043961b41cca4acd1906065fbcf641029d591dde577c"
+  version "1.4.10,19"
+  sha256 "6799d6f77ad741bb34dfc5d213c8a8d99c96f499429ea2833c6128a2acabf5de"
 
   url "https://www.apptermy.com/downloads/Termy-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Termy"
